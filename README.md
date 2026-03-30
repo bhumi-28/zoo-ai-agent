@@ -18,7 +18,7 @@
 
 ## 🧩 Architecture
 
-```mermaid
+``` mermaid
 graph TD
 A[User Input] --> B[Greeter Agent]
 B --> C[Research Agent]
