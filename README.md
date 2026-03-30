@@ -44,6 +44,12 @@ Final Response
 - Integrated real-time knowledge APIs
 - Cloud deployed scalable AI system
 
+## 🚀 Features
+- Multi-agent AI collaboration
+- Real-time knowledge fetching
+- Scalable cloud deployment
+- Interactive chat interface
+
 ## 🚀 Live Demo
 
 👉 https://your-cloud-run-url
