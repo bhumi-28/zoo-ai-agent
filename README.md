@@ -18,13 +18,17 @@
 
 ## 🧩 Architecture
 
-``` mermaid
-graph TD
-A[User Input] --> B[Greeter Agent]
-B --> C[Research Agent]
-C --> D[Wikipedia API / Tools]
-D --> E[Formatter Agent]
-E --> F[Final Response]
+User Input  
+⬇️  
+Greeter Agent  
+⬇️  
+Research Agent  
+⬇️  
+Wikipedia API / Tools  
+⬇️  
+Formatter Agent  
+⬇️  
+Final Response
 
 ## 🛠️ Tech Stack
 
