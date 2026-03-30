@@ -25,6 +25,7 @@ B --> C[Research Agent]
 C --> D[Wikipedia API / Tools]
 D --> E[Formatter Agent]
 E --> F[Final Response]
+
 ## 🛠️ Tech Stack
 
 | Category        | Technology |
